@@ -1,0 +1,23 @@
+.container {
+  width: 1200px;
+  height: 500px;
+}
+
+.inputs {
+  text-align: center;
+}
+
+.testWrapper {
+  display: table;
+  vertical-align: middle;
+}
+
+.test {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+p {
+  width: fit-content;
+  margin: auto;
+}
